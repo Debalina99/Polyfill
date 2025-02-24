@@ -2,6 +2,12 @@
 
 ## -- Array methods --
 
+### `Push`
+
+### `Pop`
+
+### `Include`
+
 ### `Concat`
 
 ### `Flat`
