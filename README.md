@@ -1,6 +1,4 @@
-# Polyfill
-
-# JavaScript built-in methods Custom Implementation
+# Polyfill - JavaScript built-in methods Custom Implementation
 
 ## -- Array methods --
 
