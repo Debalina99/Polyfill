@@ -19,3 +19,10 @@
 ### `Reduce`
 
 ### `Filter`
+
+
+## -- String methods --
+
+### `CharAt`
+
+### `Concat`
