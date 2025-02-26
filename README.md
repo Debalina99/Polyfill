@@ -30,3 +30,11 @@
 ## -- Promise --
 
 ### `Promise.All`
+
+## -- Call, Apply, Bind Methods--
+
+### `Call`
+
+### `Apply`
+
+### `Bind`
