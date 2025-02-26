@@ -26,3 +26,7 @@
 ### `CharAt`
 
 ### `Concat`
+
+## -- Promise --
+
+### `Promise.All`
